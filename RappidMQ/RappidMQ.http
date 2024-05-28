@@ -1,0 +1,6 @@
+@RappidMQ_HostAddress = http://localhost:5189
+
+GET {{RappidMQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
